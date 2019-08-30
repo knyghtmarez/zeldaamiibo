@@ -1,0 +1,2 @@
+# zeldaamiibo
+Zekda amiibos
